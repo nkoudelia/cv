@@ -40,4 +40,4 @@ Today I feel happy and empowered by the opportunity to be asking these questions
 
 I don't just value quality and professionalism - I guess most people do - but I do actively produce it on a daily basis. Even on my bad days I write high-quality code which just works. I really do have the rare skill of sensing the beauty of code. I really _can_ [Keep It Simple](https://en.wikipedia.org/wiki/KISS_principle). I really deliver on my promises. I really care.
 
-Check out my [LinkedIn profile](https://www.linkedin.com/in/nkoudelia/), [drop me a line](mailto:nikolai.koudelia@bitfix.fi) and let's have a chat about how I could help to make _your_ software troubles go away :)
+Check out my [LinkedIn profile](https://www.linkedin.com/in/nkoudelia/), [drop me a line](mailto:nikolai.koudelia@bitfix.fi) and let's have a chat about how I could help make _your_ software troubles go away :)
