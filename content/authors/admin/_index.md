@@ -34,10 +34,22 @@ profiles:
     url: https://www.linkedin.com/in/nkoudelia/
 ---
 
-I have always loved to decompose things. When I was six I used to break all my toys. Not because I was mean or upset - I just _needed_ to know how they are built inside. Putting them back together was a bit more challenging task. When I was ten I absolutely needed to know how my granny's disc telephone really works. It was an unforgettable experience to get 110 volts through my chest when somebody called while I was screwing the wires. There were many other exciting discoveries, but I managed to survive somehow, keeping the _how_, _why_ and _why not_ questions as my guiding stars.
+I have always loved to decompose things. When I was six I used to break all my toys. Not because I was mean or upset - I just _needed_ to know how they are built inside. When I was ten I absolutely had to know how my granny's disc telephone really works. It was literally a shocking experience when somebody called while I was holding the wires. There were many other exciting discoveries, but I made it just fine, keeping the _how_, _why_ and _why not_ questions as my guiding stars.
 
-Today I feel happy and empowered by the opportunity to be asking these questions daily due to the nature of my profession. I'm not asking "Why does clean code matter" or "How to avoid bugs". These are basic questions I have answered and resolved during my junior time. I rather ask myself "Why exactly this specific part of the solution was implemented in this particular way" and "How exactly can I discharge the time bomb which was put there ten years ago and not make it go off". During past years I've learned to work with complex legacy code hosted in high-volume, constant-flow online systems and refactor horrible spaghetti monsters into nicely behaving tame Pikachus.
+Today I feel happy and empowered by the opportunity to be asking these questions daily due to the nature of my profession. During past years I've learned my lessons while designing and building new software, as well as working with complex legacy code hosted in high-volume, constant-flow online systems and refactoring horrible spaghetti monsters into nicely behaving Pikachus.
 
-I don't just value quality and professionalism - I guess most people do - but I do actively produce it on a daily basis. Even on my bad days I write high-quality code which just works. I really do have the rare skill of sensing the beauty of code. I really _can_ [Keep It Simple](https://en.wikipedia.org/wiki/KISS_principle). I really deliver on my promises. I really care.
+I strive to actively produce value and quality on a daily basis. Even on my bad days I write high-quality code which just works. My secret is simple - I [Keep It Simple](https://en.wikipedia.org/wiki/KISS_principle) :)
+Well, perhaps a couple of other tricks are useful too, like paying attention to details, not leaving mess behind, being on time, responsive, responsible and just nice to other people.
 
-Check out my [LinkedIn profile](https://www.linkedin.com/in/nkoudelia/), [drop me a line](mailto:nikolai.koudelia@bitfix.fi) and let's have a chat about how I could help make _your_ software troubles go away :)
+Each job has specific context, so it makes sense to select the right tool for the right job. I have worked with a multitude of different tools, however I have found the following tools/concepts to be _especially_ powerful:
+
+* General ideas behind Functional Programming - helps to keep code in shape even when it's old
+* .NET Framework (C#, F#, AspNetCore, Generic Host, DI) - the best product family ever created by Microsoft
+* SQL (SSMS, SQLite) - defining data flows in the Functional way
+* Vue - follows the KISS principle mentioned above
+* Docker (Azure Container Apps, Amazon ECS) - it's awesome
+* Azure (Tables, Blobs, Queues) - basic building blocks can do miracles
+* AWS (DynamoDB, S3, SQS) - made by developers, for developers
+* Infrastructure as Code (Bicep, AWS CDK, Github Actions, Azure DevOps) - it just must be code
+
+Check out my [LinkedIn profile](https://www.linkedin.com/in/nkoudelia/), [drop me a line](mailto:nikolai.koudelia@bitfix.fi) and I will be happy to tell more!
